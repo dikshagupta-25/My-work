@@ -1,4 +1,4 @@
-# My-work
+# PPTs
 It Contains my Excel, Tableau, Power BI, MySQL presentation |
 Project work |
 Certificates
